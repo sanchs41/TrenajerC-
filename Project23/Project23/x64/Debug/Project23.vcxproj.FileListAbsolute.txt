@@ -1,0 +1,5 @@
+C:\Users\Ace\source\repos\Project23\Project23\x64\Debug\Project23.vcxproj.AssemblyReference.cache
+C:\Users\Ace\source\repos\Project23\Project23\x64\Debug\Project23.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ace\source\repos\Project23\Project23\x64\Debug\Project23.MyForm.resources
+C:\Users\Ace\source\repos\Project23\Project23\x64\Debug\Project23.vcxproj.GenerateResource.cache
+C:\Users\Ace\source\repos\Project23\Project23\x64\Debug\Project23.MyForm1.resources

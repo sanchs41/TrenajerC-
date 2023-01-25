@@ -1,0 +1,4 @@
+﻿  MyForm1.cpp
+C:\Users\Ace\source\repos\Project23\Project23\MyForm1.h(321,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project23.vcxproj -> C:\Users\Ace\source\repos\Project23\x64\Debug\Project23.exe
